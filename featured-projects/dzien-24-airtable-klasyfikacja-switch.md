@@ -230,7 +230,7 @@ After each Switch branch: node Airtable, Update Record operation, setting the Ca
 On the VIP branch, after updating the record: node Slack, sending a notification to the team about a new top-category request, using the same Slack credential as in Days 22–23.
 
 ---
-
+```
 ## Full workflow diagram
 
 On Form Submission
@@ -250,7 +250,7 @@ Airtable (Update Record: Category)
                      │
                      ▼
                   Slack (VIP branch only)
-
+```
 ---
 
 ## What I learned
