@@ -4,7 +4,7 @@ Automatyzacje zbudowane w n8n i Zapierze.
 
 ## O projekcie
 
-Nazwa wywodzi się z dwóch źródeł: n8 to skrót od n8n, z pochodzi od Zapiera, a Jinzo to kultowa karta z Yu-Gi-Oh! — mojej życiowej pasji, karta, którą uwielbiam od dziecka. To repozytorium jest miejscem, w którym dokumentuję to, co zbudowałem podczas nauki automatyzacji procesów — głównie w n8n, z kilkoma pracami w Zapierze dla porównania.
+Nazwa wywodzi się z dwóch źródeł: n8 to skrót od n8n, z pochodzi od Zapiera, a Jinzo to kultowa karta z Yu-Gi-Oh! (mojej życiowej pasji), karta, którą uwielbiam od dziecka. To repozytorium jest miejscem, w którym dokumentuję to, co zbudowałem podczas nauki automatyzacji procesów — głównie w n8n, z kilkoma pracami w Zapierze dla porównania.
 
 Zaczynałem od zera. Wszystko tutaj zostało zbudowane samodzielnie, przetestowane, a w większości przypadków przynajmniej raz zepsute i naprawione, zanim zaczęło działać tak, jak miało.
 
