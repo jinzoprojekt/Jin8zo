@@ -1,43 +1,3 @@
-# Jin8zo
-
-Automation workflows built with n8n and Zapier.
-
-## About
-
-The name comes from two places: n8 is short for n8n, z is for Zapier, and Jinzo is an iconic card from my lifelong passion, Yu-Gi-Oh!, a card I've liked since I was a kid. This repository is where I document what I've been building while learning workflow automation — mostly n8n, with some Zapier work alongside it for comparison.
-
-I started from zero. Everything here was built by hand, tested, and in most cases broken and fixed at least once before it worked the way I wanted.
-
-## What's in here
-
-Workflows covering:
-
-- Form-driven processes with validation and branching logic
-- Google Workspace integrations (Sheets, Calendar, Gmail, Drive)
-- Slack and Notion for internal notifications and record-keeping
-- Airtable as a lightweight database backend
-- Webhook-based APIs deployed on a self-hosted VPS instance
-- PDF parsing and data extraction from incoming documents
-- AI-assisted classification and draft generation for email triage
-- AI chatbots
-
-Some of these are small, single-purpose builds. A few — the invoice processing pipeline and the AI email assistant — grew over several sessions into something closer to a real internal tool.
-
-## Demos
-
-A few of the finished products are recorded as walkthroughs — not the build process, but a tour of the finished workflow: what it does, how it's put together, and why it works the way it does. These are close to ready to hand to a client or put on a website.
-
-- AI Research Agent
-- Jin8zo AI Chatbot
-- AI Customer Support workflow
-- AI Email Assistant — classifies incoming mail and drafts replies for review before sending
-
-## Notes
-
-This isn't a course or a tutorial series. It's a working log — some days went smoothly, some didn't, and I kept the record of both because the debugging is usually where the actual learning happened.
-
----
-
 # Jin8zo (PL)
 
 Automatyzacje zbudowane w n8n i Zapierze.
@@ -75,3 +35,41 @@ Kilka gotowych już produktów nagranych jako prezentacja — nie proces budowy,
 ## Uwaga
 
 To nie jest kurs ani seria tutoriali. To dziennik pracy — część dni poszła gładko, część nie, i zapisywałem obie strony, bo to właśnie w debugowaniu najczęściej działo się faktyczne uczenie.
+
+# Jin8zo
+
+Automation workflows built with n8n and Zapier.
+
+## About
+
+The name comes from two places: n8 is short for n8n, z is for Zapier, and Jinzo is an iconic card from my lifelong passion, Yu-Gi-Oh!, a card I've liked since I was a kid. This repository is where I document what I've been building while learning workflow automation — mostly n8n, with some Zapier work alongside it for comparison.
+
+I started from zero. Everything here was built by hand, tested, and in most cases broken and fixed at least once before it worked the way I wanted.
+
+## What's in here
+
+Workflows covering:
+
+- Form-driven processes with validation and branching logic
+- Google Workspace integrations (Sheets, Calendar, Gmail, Drive)
+- Slack and Notion for internal notifications and record-keeping
+- Airtable as a lightweight database backend
+- Webhook-based APIs deployed on a self-hosted VPS instance
+- PDF parsing and data extraction from incoming documents
+- AI-assisted classification and draft generation for email triage
+- AI chatbots
+
+Some of these are small, single-purpose builds. A few — the invoice processing pipeline and the AI email assistant — grew over several sessions into something closer to a real internal tool.
+
+## Demos
+
+A few of the finished products are recorded as walkthroughs — not the build process, but a tour of the finished workflow: what it does, how it's put together, and why it works the way it does. These are close to ready to hand to a client or put on a website.
+
+- AI Research Agent
+- Jin8zo AI Chatbot
+- AI Customer Support workflow
+- AI Email Assistant — classifies incoming mail and drafts replies for review before sending
+
+## Notes
+
+This isn't a course or a tutorial series. It's a working log — some days went smoothly, some didn't, and I kept the record of both because the debugging is usually where the actual learning happened.
