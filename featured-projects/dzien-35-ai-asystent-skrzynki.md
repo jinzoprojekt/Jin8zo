@@ -229,7 +229,7 @@ AI by Zapier — Analyze and Return Data
 
 ---
 
-## Czego się nauczyłeś
+## Czego się nauczyłem
 
 - budowania pierwszego workflowa wykorzystującego AI do klasyfikacji i generowania treści (AI by Zapier — Analyze and Return Data)
 - projektowania promptu, który jednocześnie definiuje kategorie klasyfikacji i instruuje model, czego nie robić (np. "nie wymyślaj informacji", "nie wysyłaj odpowiedzi")
@@ -471,9 +471,9 @@ AI by Zapier — Analyze and Return Data
 
 ---
 
-## What you learned
+## What I learned
 
-- building your first workflow utilizing AI for classification and content generation (AI by Zapier — Analyze and Return Data)
+- building my first workflow utilizing AI for classification and content generation (AI by Zapier — Analyze and Return Data)
 - designing a prompt that simultaneously defines classification categories and instructs the model on what not to do (e.g., "do not fabricate information", "do not send responses")
 - that the Output field type (e.g., Category/Single select) defines only the expected data structure, not the list of allowed values — those are specified inside the prompt text
 - the critical distinction between the Static tab (hardcoded sample data) and Dynamic tab (real data from a specific step) when assigning field values in Zapier — and that confusing them permanently binds actions to a single old message
