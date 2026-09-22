@@ -206,7 +206,7 @@ Po ukończeniu efekt nie sprowadza się do stwierdzenia "umiem n8n i połączył
 
 ---
 
-## Czego się nauczyłeś
+## Czego się nauczyłem
 
 - projektowania workflowa pod konkretny proces biznesowy, a nie pod pojedynczą integrację
 - walidacji danych wejściowych za pomocą wielu połączonych warunków IF
@@ -511,7 +511,7 @@ Test 4 — błędny dokument: dokument, którego nie da się poprawnie odczytać
 
 ---
 
-## Czego się nauczyłeś
+## Czego się nauczyłem
 
 - że Gmail Trigger nie zachowuje się jak Webhook przy testowaniu — nie czeka na pojedyncze zdarzenie testowe, tylko kończy test natychmiast; realne dane sprawdza się przez aktywację workflowa i podgląd Executions
 - filtrowania skrzynki pocztowej (Search, Read Status i pozostałe opcje Gmail Triggera) tak, by trigger reagował tylko na właściwe wiadomości
