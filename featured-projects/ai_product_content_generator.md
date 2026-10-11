@@ -292,7 +292,7 @@ The form contains two fields:
 
 The form is the starting point of the workflow. After submission, n8n receives the product name and the image file, which will be analyzed by the AI model.
 
-### Problem 1: I did not know how to select the binary file
+### Problem 1: binary file
 
 In the next node's settings, **Input Data Field Name** had the default value `data`, but the form might have stored the uploaded file under a different name.
 
