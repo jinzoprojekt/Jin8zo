@@ -72,8 +72,13 @@ Short, hands-on demonstration videos presenting custom automation projects and A
 ### 5. Jin8zo AI Chatbot – Prompt, Knowledge Base, Logic & Google Sheets
 * **Description:** Custom AI chatbot built for the Jin8zo brand. Breakdown of prompt architecture, Knowledge Base setup, workflow logic, and automated data transfer to Google Sheets.
 * **Video:** [Watch presentation on YouTube](https://youtu.be/XEH7mt7Yl58)
+
 ---
 
-### 5. Jin8zo AI Chatbot – Prompt, Baza Wiedzy, Logika i Google Sheets
-* **Opis:** Prezentacja autorskiego chatbota AI dla marki Jin8zo. Omówienie konstrukcji promptu, bazy wiedzy, logiki przepływu pracy oraz integracji przekazującej dane do Google Sheets.
-* **Wideo:** [Obejrzyj prezentację na YouTube](https://youtu.be/XEH7mt7Yl58)
+### 6. E-Commerce AI Asset Generator – Social Media & Marketing Automation
+* **Description:** Automated marketing asset creation workflow powered by n8n and OpenAI (GPT-4o-mini). Processes product data to generate tailored social media copy and marketing content instantly.
+* **Video:** [Watch presentation on YouTube](https://youtu.be/bG0wug5IC2U)
+
+---
+
+
