@@ -36,7 +36,7 @@ Krótkie, robocze nagrania demonstracyjne przedstawiające działanie moich auto
 
 ### 6. E-Commerce AI Asset Generator – Automatyzacja Treści i Marketingu
 * **Opis:** Przepływ pracy (workflow) w n8n wspierany przez OpenAI (GPT-4o-mini), automatyzujący tworzenie zasobów marketingowych. Przetwarza dane produktowe i błyskawicznie generuje spersonalizowane posty na social media oraz treści promocyjne.
-* **Wideo:** [Obejrzyj prezentację na YouTube](https://youtu.be/bG0wug5IC2U)
+* **Wideo:** [Obejrzyj prezentację na YouTube](https://youtu.be/I50jF8DGjIk)
 
 <br>
 
@@ -81,7 +81,7 @@ Short, hands-on demonstration videos presenting custom automation projects and A
 
 ### 6. E-Commerce AI Asset Generator – Social Media & Marketing Automation
 * **Description:** Automated marketing asset creation workflow powered by n8n and OpenAI (GPT-4o-mini). Processes product data to generate tailored social media copy and marketing content instantly.
-* **Video:** [Watch presentation on YouTube](https://youtu.be/bG0wug5IC2U)
+* **Video:** [Watch presentation on YouTube](https://youtu.be/I50jF8DGjIk)
 
 ---
 
