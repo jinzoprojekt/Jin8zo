@@ -34,6 +34,10 @@ Krótkie, robocze nagrania demonstracyjne przedstawiające działanie moich auto
 * **Opis:** Prezentacja autorskiego chatbota AI dla marki Jin8zo. Omówienie konstrukcji promptu, bazy wiedzy, logiki przepływu pracy oraz integracji przekazującej dane do Google Sheets.
 * **Wideo:** [Obejrzyj prezentację na YouTube](https://youtu.be/XEH7mt7Yl58)
 
+### 6. E-Commerce AI Asset Generator – Automatyzacja Treści i Marketingu
+* **Opis:** Przepływ pracy (workflow) w n8n wspierany przez OpenAI (GPT-4o-mini), automatyzujący tworzenie zasobów marketingowych. Przetwarza dane produktowe i błyskawicznie generuje spersonalizowane posty na social media oraz treści promocyjne.
+* **Wideo:** [Obejrzyj prezentację na YouTube](https://youtu.be/bG0wug5IC2U)
+
 <br>
 
 ---
