@@ -37,7 +37,11 @@ Krótkie, robocze nagrania demonstracyjne przedstawiające działanie moich auto
 ### 6. E-Commerce AI Asset Generator – Automatyzacja Treści i Marketingu
 * **Opis:** Przepływ pracy (workflow) w n8n wspierany przez OpenAI (GPT-4o-mini), automatyzujący tworzenie zasobów marketingowych. Przetwarza dane produktowe i błyskawicznie generuje spersonalizowane posty na social media oraz treści promocyjne.
 * **Wideo:** [Obejrzyj prezentację na YouTube](https://youtu.be/I50jF8DGjIk)
-
+  
+### 7.AI CV Screening & HR Agent – Automatyczna Ocena CV, Google Sheets i Wysyłka E-maili (n8n + AI)
+* **Opis:** Prezentacja agenta AI zbudowanego w n8n. Workflow automatycznie przetwarza załączniki CV, analizuje dopasowanie kandydata, zapisuje podsumowanie w bazie Google Sheets oraz wysyła bezpośrednią odpowiedź e-mail do kandydata przez Gmaila.
+* **Wideo:** [Obejrzyj prezentację na YouTube](https://youtu.be/FizffJMZiT8)
+  
 <br>
 
 ---
@@ -85,4 +89,8 @@ Short, hands-on demonstration videos presenting custom automation projects and A
 
 ---
 
+### 7. AI CV Screening & HR Agent – Automated CV Evaluation, Google Sheets & Direct Email Sending (n8n + AI)
+* **Description:** Showcase of an AI agent built in n8n. The workflow automatically processes CV attachments, analyzes candidate fit, logs the summary into a Google Sheets database, and sends a direct email response to the candidate via Gmail.
+* **Video:** [Watch presentation on YouTube](https://youtu.be/FizffJMZiT8)
 
+--- 
