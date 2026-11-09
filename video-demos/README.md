@@ -41,6 +41,10 @@ Krótkie, robocze nagrania demonstracyjne przedstawiające działanie moich auto
 ### 7.AI CV Screening & HR Agent – Automatyczna Ocena CV, Google Sheets i Wysyłka E-maili (n8n + AI)
 * **Opis:** Prezentacja agenta AI zbudowanego w n8n. Workflow automatycznie przetwarza załączniki CV, analizuje dopasowanie kandydata, zapisuje podsumowanie w bazie Google Sheets oraz wysyła bezpośrednią odpowiedź e-mail do kandydata przez Gmaila.
 * **Wideo:** [Obejrzyj prezentację na YouTube](https://youtu.be/FizffJMZiT8)
+
+### 8. AI Meeting Intelligence – Automatyczna Transkrypcja, Analiza Spotkań i Generowanie Raportów (n8n + AI)
+* **Opis:** Workflow zbudowany w n8n, automatyzujący analizę nagrań audio i wideo ze spotkań. Po dodaniu nagrania do Google Drive system wykorzystuje AssemblyAI do automatycznej transkrypcji i identyfikacji mówców, a następnie OpenAI (GPT-4.1-mini) do analizy treści, wyodrębniania podsumowań, decyzji, zadań i potencjalnych ryzyk. Wyniki są automatycznie zapisywane w Google Docs i Google Sheets, a gotowy raport wysyłany e-mailem przez Gmail.
+* **Wideo:** [Obejrzyj prezentację na YouTube](https://youtu.be/cLjachuNYso)
   
 <br>
 
@@ -92,5 +96,11 @@ Short, hands-on demonstration videos presenting custom automation projects and A
 ### 7. AI CV Screening & HR Agent – Automated CV Evaluation, Google Sheets & Direct Email Sending (n8n + AI)
 * **Description:** Showcase of an AI agent built in n8n. The workflow automatically processes CV attachments, analyzes candidate fit, logs the summary into a Google Sheets database, and sends a direct email response to the candidate via Gmail.
 * **Video:** [Watch presentation on YouTube](https://youtu.be/FizffJMZiT8)
+
+--- 
+
+### 8. AI Meeting Intelligence – Automated Transcription, Meeting Analysis & Report Generation (n8n + AI)
+* **Description:** An n8n workflow that automates the analysis of audio and video meeting recordings. Once a recording is uploaded to Google Drive, the system uses AssemblyAI for automatic transcription and speaker identification, followed by OpenAI (GPT-4.1-mini) to analyze the content and extract summaries, decisions, tasks, and potential risks. The results are automatically saved to Google Docs and Google Sheets, and the completed report is delivered via Gmail.
+* **Video:** [Watch presentation on YouTube](https://youtu.be/cLjachuNYso)
 
 --- 
